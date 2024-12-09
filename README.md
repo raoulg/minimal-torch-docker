@@ -1,7 +1,7 @@
 # PyTorch CPU Docker Images
 
 Pre-built Docker images with PyTorch CPU-only installations, optimized for size and build speed using `uv`.
-
+You can find all docker tags at [hub.docker.com](https://hub.docker.com/repository/docker/raoulgrouls/torch-python-slim/general)
 ## Available Tags
 
 Images are available for:
