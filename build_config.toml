@@ -1,0 +1,13 @@
+dockername = "raoulgrouls"
+image_name = "torch-python-slim"
+
+python_versions = [
+    "3.11",
+    "3.12"
+]
+
+pytorch_versions = [
+    "2.3.x",
+    "2.4.x",
+    "2.5.x"
+]
